@@ -1,5 +1,5 @@
 {
-  "name": "ng-scaffold",
+  "name": "ng-rxjs-example",
   "version": "0.0.3",
   "scripts": {
     "ng": "ng",
@@ -62,5 +62,8 @@
       "prettier --write",
       "git add"
     ]
-  }
+  },
+  "main": "index.js",
+  "author": "Takeshi Emoto <takeshi.emoto@jointcrew.co.jp>",
+  "license": "MIT"
 }
